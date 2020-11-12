@@ -1,0 +1,381 @@
+Sector,Ticker,Description,Issuer,AUM,ExpenseRatio,3-MO TR,Segment
+Agriculture,DBA,Invesco DB Agriculture Fund,Invesco,$442.91M,0.89%,#NAME?,Commodities: Agriculture
+Agriculture,JO,iPath Series B Bloomberg Coffee Subindex Total Return ETN,Barclays Bank PLC,$79.86M,0.45%,#NAME?,Commodities: Agriculture Coffee
+Agriculture,CORN,Teucrium Corn Fund,Teucrium,$59.24M,3.65%,#NAME?,Commodities: Agriculture Corn
+Agriculture,WEAT,Teucrium Wheat Fund,Teucrium,$53.59M,3.63%,#NAME?,Commodities: Agriculture Wheat
+Agriculture,SGG,iPath Series B Bloomberg Sugar Subindex Total Return ETN,Barclays Bank PLC,$24.01M,0.45%,2.32%,Commodities: Agriculture Sugar
+Agriculture,SOYB,Teucrium Soybean Fund,Teucrium,$23.36M,3.63%,#NAME?,Commodities: Agriculture Soybeans
+Agriculture,NIB,iPath Bloomberg Cocoa Subindex Total Return ETN,Barclays Bank PLC,$18.36M,0.70%,1.15%,Commodities: Agriculture Cocoa
+Agriculture,JJG,iPath Series B Bloomberg Grains Subindex Total Return ETN,Barclays Bank PLC,$18.04M,0.45%,#NAME?,Commodities: Agriculture Grains
+Agriculture,CANE,Teucrium Sugar Fund,Teucrium,$11.16M,3.58%,#NAME?,Commodities: Agriculture Sugar
+Agriculture,COW,iPath Series B Bloomberg Livestock Subindex Total Return ETN,Barclays Bank PLC,$9.48M,0.45%,3.77%,Commodities: Agriculture Livestock
+Agriculture,BAL,iPath Series B Bloomberg Cotton Subindex Total Return ETN,Barclays Bank PLC,$8.60M,0.45%,3.64%,Commodities: Agriculture Cotton
+Agriculture,JJA,iPath Series B Bloomberg Agriculture Subindex Total Return E…,Barclays Bank PLC,$6.69M,0.45%,#NAME?,Commodities: Agriculture
+Agriculture,JJS,iPath Series B Bloomberg Softs Subindex Total Return ETN,Barclays Bank PLC,$4.23M,0.45%,#NAME?,Commodities: Agriculture Softs
+Agriculture,FUD,ETRACS UBS Bloomberg CMCI Food Total Return ETN,UBS,$3.43M,0.65%,#NAME?,Commodities: Agriculture
+Agriculture,UAG,ETRACS UBS Bloomberg CMCI Agriculture Total Return ETN,UBS,$2.82M,0.65%,#NAME?,Commodities: Agriculture
+Agriculture,TAGS,Teucrium Agricultural Fund,Teucrium,$1.43M,0.48%,#NAME?,Commodities: Agriculture
+Agriculture,FUE,Elements MLCX Biofuels Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Agriculture,GRU,Elements MLCX Grains Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Agriculture,RJA,Elements Rogers International Commodity Index-Agriculture TR…,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture
+Aluminum,JJU,iPath Series B Bloomberg Aluminum Subindex Total Return ETN,Barclays Bank PLC,$4.57M,0.45%,#NAME?,Commodities: Industrial Metals Aluminum
+Cocoa,NIB,iPath Bloomberg Cocoa Subindex Total Return ETN,Barclays Bank PLC,$18.36M,0.70%,1.15%,Commodities: Agriculture Cocoa
+Coffee,JO,iPath Series B Bloomberg Coffee Subindex Total Return ETN,Barclays Bank PLC,$79.86M,0.45%,#NAME?,Commodities: Agriculture Coffee
+Commodities,GLD,SPDR Gold Trust,State Street Global Advisors,$30.57B,0.40%,#NAME?,Commodities: Precious Metals Gold
+Commodities,IAU,iShares Gold Trust,BlackRock,$12.17B,0.25%,#NAME?,Commodities: Precious Metals Gold
+Commodities,SLV,iShares Silver Trust,BlackRock,$4.62B,0.50%,#NAME?,Commodities: Precious Metals Silver
+Commodities,PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 …,Invesco,$2.12B,0.58%,5.01%,Commodities: Broad Market
+Commodities,DBC,Invesco DB Commodity Index Tracking Fund,Invesco,$1.77B,0.89%,4.31%,Commodities: Broad Market
+Commodities,USO,United States Oil Fund LP,US Commodity Funds,$1.54B,0.84%,20.27%,Commodities: Energy Crude Oil
+Commodities,GSG,iShares S&P GSCI Commodity Indexed Trust,BlackRock,$1.22B,0.80%,9.00%,Commodities: Broad Market
+Commodities,SGOL,Aberdeen Standard Physical Swiss Gold Shares ETF,Aberdeen Asset Management,$851.92M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Commodities,DJP,iPath Bloomberg Commodity Index Total Return ETN,Barclays Bank PLC,$746.17M,0.70%,0.71%,Commodities: Broad Market
+Commodities,GLDM,SPDR Gold MiniShares Trust,State Street Global Advisors,$633.63M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Commodities,PPLT,Aberdeen Standard Physical Platinum Shares ETF,Aberdeen Asset Management,$585.80M,0.60%,8.19%,Commodities: Precious Metals Platinum
+Commodities,UGAZ,VelocityShares 3X Long Natural Gas ETN,Credit Suisse,$445.06M,1.65%,#NAME?,Leveraged Commodities: Energy Natural Gas
+Commodities,BAR,GraniteShares Gold Trust,GraniteShares,$444.96M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Commodities,DBA,Invesco DB Agriculture Fund,Invesco,$442.91M,0.89%,#NAME?,Commodities: Agriculture
+Commodities,USCI,United States Commodity Index Fund,US Commodity Funds,$421.10M,1.03%,#NAME?,Commodities: Broad Market
+Commodities,UWT,VelocityShares 3x Long Crude Oil ETN,CitiGroup,$409.40M,1.50%,65.62%,Leveraged Commodities: Energy Crude Oil
+Commodities,UCO,ProShares Ultra Bloomberg Crude Oil,ProShares,$408.67M,1.27%,41.26%,Leveraged Commodities: Energy Crude Oil
+Commodities,GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,Aberdeen Asset Management,$353.37M,0.60%,#NAME?,Commodities: Precious Metals
+Commodities,SIVR,Aberdeen Standard Physical Silver Shares ETF,Aberdeen Asset Management,$319.17M,0.30%,#NAME?,Commodities: Precious Metals Silver
+Commodities,DBO,Invesco DB Oil Fund,Invesco,$315.10M,0.78%,12.80%,Commodities: Energy Crude Oil
+Commodities,UNG,United States Natural Gas Fund LP,US Commodity Funds,$283.15M,1.29%,#NAME?,Commodities: Energy Natural Gas
+Commodities,DGAZ,VelocityShares 3X Inverse Natural Gas ETN,Credit Suisse,$238.07M,1.65%,72.53%,Inverse Commodities: Energy Natural Gas
+Commodities,PALL,Aberdeen Standard Physical Palladium Shares ETF,Aberdeen Asset Management,$226.18M,0.60%,3.59%,Commodities: Precious Metals Palladium
+Commodities,USLV,VelocityShares 3X Long Silver ETN,Credit Suisse,$224.82M,1.65%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Commodities,AGQ,ProShares Ultra Silver,ProShares,$172.80M,5.28%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Commodities,FTGC,First Trust Global Tactical Commodity Strategy Fund,First Trust,$170.42M,0.95%,0.48%,Commodities: Broad Market
+Commodities,DBB,Invesco DB Base Metals Fund,Invesco,$165.64M,0.80%,1.48%,Commodities: Industrial Metals
+Commodities,BCI,Aberdeen Standard Bloomberg All Commodity Strategy K-1 Free …,Aberdeen Asset Management,$157.60M,0.25%,0.65%,Commodities: Broad Market
+Commodities,DWT,VelocityShares 3x Inverse Crude Oil ETN,CitiGroup,$145.49M,1.50%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,OUNZ,VanEck Merk Gold,Merk,$143.11M,0.40%,#NAME?,Commodities: Precious Metals Gold
+Commodities,OILU,ProShares UltraPro 3x Crude Oil ETF,ProShares,$142.35M,1.03%,64.29%,Leveraged Commodities: Energy Crude Oil
+Commodities,GCC,WisdomTree Continuous Commodity Index Fund,WisdomTree,$138.95M,0.86%,#NAME?,Commodities: Broad Market
+Commodities,UGLD,VelocityShares 3X Long Gold ETN,Credit Suisse,$108.46M,1.35%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Commodities,DBP,Invesco DB Precious Metals Fund,Invesco,$107.39M,0.78%,#NAME?,Commodities: Precious Metals
+Commodities,AAAU,Perth Mint Physical Gold ETF,Exchange Traded Concepts,$105.42M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Commodities,OIL,iPath Series B S&P GSCI Crude Oil ETN,Barclays Bank PLC,$103.50M,0.45%,20.30%,Commodities: Energy Crude Oil
+Commodities,BNO,United States Brent Oil Fund LP,US Commodity Funds,$102.72M,0.88%,21.29%,Commodities: Energy Crude Oil
+Commodities,DGL,Invesco DB Gold Fund,Invesco,$101.85M,0.78%,#NAME?,Commodities: Precious Metals Gold
+Commodities,SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares,$95.51M,1.25%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,DBE,Invesco DB Energy Fund,Invesco,$90.41M,0.78%,12.28%,Commodities: Energy
+Commodities,DGP,DB Gold Double Long ETN,Deutsche Bank,$82.50M,0.75%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Commodities,JO,iPath Series B Bloomberg Coffee Subindex Total Return ETN,Barclays Bank PLC,$79.86M,0.45%,#NAME?,Commodities: Agriculture Coffee
+Commodities,UGL,ProShares Ultra Gold,ProShares,$70.64M,5.07%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Commodities,UCI,ETRACS UBS Bloomberg Constant Maturity Commodity Index TR ET…,UBS,$70.58M,0.55%,3.51%,Commodities: Broad Market
+Commodities,USL,United States 12 Month Oil Fund LP,US Commodity Funds,$65.60M,0.86%,16.84%,Commodities: Energy Crude Oil
+Commodities,COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,GraniteShares,$59.91M,0.25%,0.68%,Commodities: Broad Market
+Commodities,CORN,Teucrium Corn Fund,Teucrium,$59.24M,3.65%,#NAME?,Commodities: Agriculture Corn
+Commodities,BCM,iPath Pure Beta Broad Commodity ETN,Barclays Bank PLC,$56.07M,0.70%,4.13%,Commodities: Broad Market
+Commodities,WEAT,Teucrium Wheat Fund,Teucrium,$53.59M,3.63%,#NAME?,Commodities: Agriculture Wheat
+Commodities,OILK,ProShares K-1 Free Crude Oil Strategy ETF,ProShares,$46.80M,0.65%,19.63%,Commodities: Energy Crude Oil
+Commodities,UGA,United States Gasoline Fund LP,US Commodity Funds,$44.42M,1.12%,35.02%,Commodities: Energy Gasoline
+Commodities,COM,Direxion Auspice Broad Commodity Strategy ETF,Rafferty Asset Management,$42.26M,0.70%,#NAME?,Commodities: Broad Market
+Commodities,CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,BlackRock,$39.24M,0.28%,0.79%,Commodities: Broad Market
+Commodities,GSP,iPath S&P GSCI Total Return Index ETN,Barclays Bank PLC,$36.79M,0.75%,11.21%,Commodities: Broad Market
+Commodities,GLDI,Credit Suisse X-Links Gold Shares Covered Call ETN,Credit Suisse,$34.24M,0.65%,#NAME?,Commodities: Precious Metals Gold
+Commodities,DJCI,ETRACS Bloomberg Commodity Index Total Return ETN,UBS,$31.59M,0.50%,0.80%,Commodities: Broad Market
+Commodities,DSLV,VelocityShares 3X Inverse Silver ETN,Credit Suisse,$29.85M,1.65%,16.55%,Inverse Commodities: Precious Metals Silver
+Commodities,GLDW,SPDR Long Dollar Gold Trust,State Street Global Advisors,$29.44M,0.50%,1.49%,Commodities: Precious Metals Gold
+Commodities,BOIL,ProShares Ultra Bloomberg Natural Gas,ProShares,$26.58M,1.31%,#NAME?,Leveraged Commodities: Energy Natural Gas
+Commodities,USOU,United States 3x Oil Fund,US Commodity Funds,$25.75M,1.43%,65.23%,Leveraged Commodities: Energy Crude Oil
+Commodities,SGG,iPath Series B Bloomberg Sugar Subindex Total Return ETN,Barclays Bank PLC,$24.01M,0.45%,2.32%,Commodities: Agriculture Sugar
+Commodities,SOYB,Teucrium Soybean Fund,Teucrium,$23.36M,3.63%,#NAME?,Commodities: Agriculture Soybeans
+Commodities,ZSL,ProShares UltraShort Silver,ProShares,$22.77M,1.62%,11.22%,Inverse Commodities: Precious Metals Silver
+Commodities,GLL,ProShares UltraShort Gold,ProShares,$22.13M,1.62%,4.50%,Inverse Commodities: Precious Metals Gold
+Commodities,SLVO,Credit Suisse X-Links Silver Shares Covered Call ETN,Credit Suisse,$21.16M,0.65%,#NAME?,Commodities: Precious Metals Silver
+Commodities,OILD,ProShares UltraPro 3x Short Crude Oil ETF,ProShares,$19.67M,1.10%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,WTIU,UBS ETRACS - ProShares Daily 3x Long Crude ETN,UBS,$19.47M,1.45%,64.51%,Leveraged Commodities: Energy Crude Oil
+Commodities,DGLD,VelocityShares 3X Inverse Gold ETN,Credit Suisse,$19.43M,1.35%,6.54%,Inverse Commodities: Precious Metals Gold
+Commodities,DZZ,DB Gold Double Short ETN,Deutsche Bank,$18.56M,0.75%,5.11%,Inverse Commodities: Precious Metals Gold
+Commodities,NIB,iPath Bloomberg Cocoa Subindex Total Return ETN,Barclays Bank PLC,$18.36M,0.70%,1.15%,Commodities: Agriculture Cocoa
+Commodities,JJG,iPath Series B Bloomberg Grains Subindex Total Return ETN,Barclays Bank PLC,$18.04M,0.45%,#NAME?,Commodities: Agriculture Grains
+Commodities,OILX,ETRACS S&P GSCI Crude Oil Total Return ETN,UBS,$15.70M,0.50%,20.21%,Commodities: Energy Crude Oil
+Commodities,JJC,iPath Series B Bloomberg Copper Subindex Total Return ETN,Barclays Bank PLC,$14.99M,0.45%,5.00%,Commodities: Industrial Metals Copper
+Commodities,CPER,United States Copper Index Fund,US Commodity Funds,$14.59M,0.80%,5.00%,Commodities: Industrial Metals Copper
+Commodities,DBS,Invesco DB Silver Fund,Invesco,$13.25M,0.79%,#NAME?,Commodities: Precious Metals Silver
+Commodities,DTO,DB Crude Oil Double Short ETN,Deutsche Bank,$11.67M,0.75%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,CANE,Teucrium Sugar Fund,Teucrium,$11.16M,3.58%,#NAME?,Commodities: Agriculture Sugar
+Commodities,KOLD,ProShares UltraShort Bloomberg Natural Gas,ProShares,$9.81M,1.54%,48.57%,Inverse Commodities: Energy Natural Gas
+Commodities,COW,iPath Series B Bloomberg Livestock Subindex Total Return ETN,Barclays Bank PLC,$9.48M,0.45%,3.77%,Commodities: Agriculture Livestock
+Commodities,DGZ,DB Gold Short ETN,Deutsche Bank,$8.86M,0.75%,2.69%,Inverse Commodities: Precious Metals Gold
+Commodities,BAL,iPath Series B Bloomberg Cotton Subindex Total Return ETN,Barclays Bank PLC,$8.60M,0.45%,3.64%,Commodities: Agriculture Cotton
+Commodities,USOI,Credit Suisse X-Links Crude Oil Shares Covered Call ETN,Credit Suisse,$8.40M,0.85%,19.85%,Commodities: Energy Crude Oil
+Commodities,JJN,iPath Series B Bloomberg Nickel Subindex Total Return ETN,Barclays Bank PLC,$7.94M,0.45%,3.31%,Commodities: Industrial Metals Nickel
+Commodities,COMG,GraniteShares S&P GSCI Commodity Broad Strategy No K-1 ETF,GraniteShares,$7.04M,0.35%,9.45%,Commodities: Broad Market
+Commodities,JJA,iPath Series B Bloomberg Agriculture Subindex Total Return E…,Barclays Bank PLC,$6.69M,0.45%,#NAME?,Commodities: Agriculture
+Commodities,UBG,ETRACS UBS Bloomberg CMCI Gold Total Return ETN,UBS,$6.42M,0.30%,#NAME?,Commodities: Precious Metals Gold
+Commodities,UCIB,ETRACS CMCI Total Return ETN Series B,UBS,$6.03M,0.55%,3.97%,Commodities: Broad Market
+Commodities,IAUF,iShares Gold Strategy ETF,BlackRock,$4.86M,0.25%,#NAME?,Commodities: Precious Metals Gold
+Commodities,JJM,iPath Series B Bloomberg Industrial Metals Subindex Total Re…,Barclays Bank PLC,$4.72M,0.45%,2.57%,Commodities: Industrial Metals
+Commodities,JJP,iPath Series B Bloomberg Precious Metals Subindex Total Retu…,Barclays Bank PLC,$4.61M,0.45%,#NAME?,Commodities: Precious Metals
+Commodities,JJT,iPath Series B Bloomberg Tin Subindex Total Return ETN,Barclays Bank PLC,$4.58M,0.45%,#NAME?,Commodities: Industrial Metals Tin
+Commodities,JJU,iPath Series B Bloomberg Aluminum Subindex Total Return ETN,Barclays Bank PLC,$4.57M,0.45%,#NAME?,Commodities: Industrial Metals Aluminum
+Commodities,JJE,iPath Series B Bloomberg Energy Subindex Total Return ETN,Barclays Bank PLC,$4.50M,0.45%,9.06%,Commodities: Energy
+Commodities,UNL,United States 12 Month Natural Gas Fund LP,US Commodity Funds,$4.45M,0.88%,#NAME?,Commodities: Energy Natural Gas
+Commodities,AOIL,Aberdeen Standard Bloomberg WTI Crude Oil Strategy K-1 Free …,Aberdeen Asset Management,$4.41M,0.39%,19.16%,Commodities: Energy
+Commodities,JJS,iPath Series B Bloomberg Softs Subindex Total Return ETN,Barclays Bank PLC,$4.23M,0.45%,#NAME?,Commodities: Agriculture Softs
+Commodities,PLTM,GraniteShares Platinum Trust,GraniteShares,$3.96M,0.50%,#NAME?,Commodities: Precious Metals Platinum
+Commodities,PGM,iPath Series B Bloomberg Platinum Subindex Total Return ETN,Barclays Bank PLC,$3.92M,0.45%,8.47%,Commodities: Precious Metals Platinum
+Commodities,SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,USCF Advisers,$3.88M,0.80%,#NAME?,Commodities: Broad Market
+Commodities,USV,ETRACS UBS Bloomberg CMCI Silver Total Return ETN,UBS,$3.73M,0.40%,#NAME?,Commodities: Precious Metals Silver
+Commodities,BCD,Aberdeen Standard Bloomberg All Commodity Longer Dated K-1 F…,Aberdeen Asset Management,$3.70M,0.29%,0.90%,Commodities: Broad Market
+Commodities,GAZ,iPath Series B Bloomberg Natural Gas Subindex Total Return E…,Barclays Bank PLC,$3.60M,0.45%,#NAME?,Commodities: Energy Natural Gas
+Commodities,FUD,ETRACS UBS Bloomberg CMCI Food Total Return ETN,UBS,$3.43M,0.65%,#NAME?,Commodities: Agriculture
+Commodities,UAG,ETRACS UBS Bloomberg CMCI Agriculture Total Return ETN,UBS,$2.82M,0.65%,#NAME?,Commodities: Agriculture
+Commodities,OLEM,iPath Pure Beta Crude Oil ETN,Barclays Bank PLC,$2.61M,0.85%,17.48%,Commodities: Energy Crude Oil
+Commodities,WTID,UBS ETRACS - ProShares Daily 3x Inverse Crude ETN,UBS,$2.21M,1.85%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,USOD,United States 3x Short Oil Fund,US Commodity Funds,$1.97M,1.62%,#NAME?,Inverse Commodities: Energy Crude Oil
+Commodities,TAGS,Teucrium Agricultural Fund,Teucrium,$1.43M,0.48%,#NAME?,Commodities: Agriculture
+Commodities,LD,iPath Bloomberg Lead Subindex Total Return ETN,Barclays Bank PLC,$443.27K,0.70%,#NAME?,Commodities: Industrial Metals Lead
+Commodities,FUE,Elements MLCX Biofuels Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Commodities,GRU,Elements MLCX Grains Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Commodities,RJA,Elements Rogers International Commodity Index-Agriculture TR…,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture
+Commodities,RJI,Elements Rogers International Commodity Index-Total Return E…,Swedish Export Credit,--,0.75%,3.26%,Commodities: Broad Market
+Commodities,RJN,Elements Rogers International Commodity Index-Energy TR ETN,Swedish Export Credit,--,0.75%,14.13%,Commodities: Energy
+Commodities,RJZ,Elements Rogers International Commodity Index-Metals Total R…,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Broad Market Metals
+Commodities,GSC,GS Connect S&P GSCI Enhanced Commodity TR Strategy ETN,Goldman Sachs,--,1.25%,10.20%,Commodities: Broad Market
+Copper,JJC,iPath Series B Bloomberg Copper Subindex Total Return ETN,Barclays Bank PLC,$14.99M,0.45%,5.00%,Commodities: Industrial Metals Copper
+Copper,CPER,United States Copper Index Fund,US Commodity Funds,$14.59M,0.80%,5.00%,Commodities: Industrial Metals Copper
+Corn,CORN,Teucrium Corn Fund,Teucrium,$59.24M,3.65%,#NAME?,Commodities: Agriculture Corn
+Cotton,BAL,iPath Series B Bloomberg Cotton Subindex Total Return ETN,Barclays Bank PLC,$8.60M,0.45%,3.64%,Commodities: Agriculture Cotton
+,XLE,Energy Select Sector SPDR Fund,State Street Global Advisors,$14.06B,0.13%,7.45%,Equity: U.S. Energy
+,AMLP,Alerian MLP ETF,SS&C,$9.01B,0.85%,3.85%,Equity: U.S. MLPs
+,VDE,Vanguard Energy ETF,Vanguard,$3.72B,0.10%,7.30%,Equity: U.S. Energy
+Energy,AMJ,J.P. Morgan Alerian MLP Index ETN,JPMorgan,$3.01B,0.85%,4.02%,Equity: U.S. MLPs
+Energy,EMLP,First Trust North American Energy Infrastructure Fund,First Trust,$2.43B,0.95%,7.78%,Equity: U.S. MLPs
+Energy,XOP,SPDR S&P Oil & Gas Exploration & Production ETF,State Street Global Advisors,$2.34B,0.35%,4.38%,Equity: U.S. Oil & Gas Exploration & Production
+Energy,MLPI,ETRACS Alerian MLP Infrastructure Index ETN,UBS,$1.28B,0.85%,3.74%,Equity: U.S. MLPs
+Energy,IXC,iShares Global Energy ETF,BlackRock,$998.48M,0.47%,7.22%,Equity: Global Energy
+Energy,MLPA,Global X MLP ETF,Mirae Asset Global Investments,$929.69M,0.45%,3.57%,Equity: U.S. MLPs
+Energy,MLPX,Global X MLP & Energy Infrastructure ETF,Mirae Asset Global Investments,$855.03M,0.45%,6.30%,Equity: U.S. MLPs
+Energy,OIH,VanEck Vectors Oil Services ETF,VanEck,$830.06M,0.35%,0.99%,Equity: Global Oil & Gas Equipment & Services
+Energy,IYE,iShares U.S. Energy ETF,BlackRock,$804.41M,0.43%,7.14%,Equity: U.S. Energy
+Energy,FENY,Fidelity MSCI Energy Index ETF,Fidelity,$549.07M,0.08%,7.20%,Equity: U.S. Energy
+Energy,AMZA,InfraCap MLP ETF,Virtus,$481.96M,2.40%,5.66%,Equity: U.S. MLPs
+Energy,ATMP,Barclays ETN+ Select MLP ETN,Barclays Bank PLC,$397.47M,0.95%,4.08%,Equity: U.S. MLPs
+Energy,ERX,Direxion Daily Energy Bull 3x Shares,Rafferty Asset Management,$386.64M,1.10%,19.60%,Leveraged Equity: U.S. Energy
+Energy,TPYP,Tortoise North American Pipeline Fund,Montage Managers,$344.74M,0.40%,7.78%,Equity: U.S. MLPs
+Energy,IEO,iShares U.S. Oil & Gas Exploration & Production ETF,BlackRock,$287.06M,0.43%,6.29%,Equity: U.S. Oil & Gas Exploration & Production
+Energy,AMU,ETRACS Alerian MLP Index ETN,UBS,$286.69M,0.80%,3.70%,Equity: U.S. MLPs
+Energy,GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 3X Shares,Rafferty Asset Management,$246.02M,1.17%,4.02%,Leveraged Equity: U.S. Oil & Gas Exploration & Production
+Energy,XES,SPDR S&P Oil & Gas Equipment & Services ETF,State Street Global Advisors,$230.49M,0.35%,5.29%,Equity: U.S. Oil & Gas Equipment & Services
+Energy,RYE,Invesco S&P 500 Equal Weight Energy ETF,Invesco,$215.32M,0.40%,7.50%,Equity: U.S. Energy
+Energy,FXN,First Trust Energy AlphaDEX Fund,First Trust,$183.10M,0.63%,1.18%,Equity: U.S. Energy
+Energy,IEZ,iShares U.S. Oil Equipment & Services ETF,BlackRock,$160.10M,0.43%,2.52%,Equity: U.S. Oil & Gas Equipment & Services
+Energy,FCG,First Trust Natural Gas ETF,First Trust,$101.85M,0.60%,0.44%,Equity: U.S. Natural Gas
+Energy,DIG,ProShares Ultra Oil & Gas,ProShares,$98.22M,0.95%,13.08%,Leveraged Equity: U.S. Energy
+Energy,MLPC,C-Tracks Miller/Howard MLP Fundamental ETN,CitiGroup,$97.51M,0.95%,4.16%,Equity: U.S. MLPs
+Energy,MLPQ,ETRACS 2xMonthly Leveraged Alerian MLP Infrastructure Index …,UBS,$80.31M,0.85%,6.78%,Leveraged Equity: U.S. MLPs
+Energy,ENFR,Alerian Energy Infrastructure ETF,SS&C,$66.95M,0.55%,6.72%,Equity: U.S. MLPs
+Energy,NRGU,MicroSectors U.S. Big Oil Index 3X Leveraged ETN,BMO,$57.96M,0.95%,--,Leveraged Equity: U.S. Oil & Gas
+Energy,DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares,Rafferty Asset Management,$57.61M,1.07%,#NAME?,Inverse Equity: U.S. Oil & Gas Exploration & Production
+Energy,NRGO,MicroSectors U.S. Big Oil Index 2X Leveraged ETN,BMO,$55.31M,0.95%,--,Leveraged Equity: U.S. Oil & Gas
+Energy,KOL,VanEck Vectors Coal ETF,VanEck,$52.73M,0.60%,#NAME?,Equity: Global Coal
+Energy,PXI,Invesco DWA Energy Momentum ETF,Invesco,$52.72M,0.60%,2.23%,Equity: U.S. Energy
+Energy,ZMLP,Direxion Zacks MLP High Income Index Shares,Rafferty Asset Management,$51.61M,0.65%,4.61%,Equity: U.S. MLPs
+Energy,FILL,iShares MSCI Global Energy Producers ETF,BlackRock,$51.41M,0.39%,7.35%,Equity: Global Oil & Gas Exploration & Production
+Energy,YGRN,MicroSectors U.S. Big Oil Index Inverse ETN,BMO,$47.38M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Energy,NRGZ,MicroSectors U.S. Big Oil Index -2X Inverse Leveraged ETN,BMO,$44.77M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Energy,YMLP,VanEck Vectors High Income MLP ETF,VanEck,$43.18M,0.84%,10.02%,Equity: U.S. MLPs
+Energy,NRGD,MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN,BMO,$42.20M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Energy,PXE,Invesco Dynamic Energy Exploration & Production ETF,Invesco,$41.37M,0.65%,3.56%,Equity: U.S. Oil & Gas Exploration & Production
+Energy,IMLP,iPath S&P MLP ETN,Barclays Bank PLC,$33.78M,0.80%,5.42%,Equity: U.S. MLPs
+Energy,GASL,Direxion Daily Natural Gas Related Bull 3X Shares,Rafferty Asset Management,$32.31M,1.04%,#NAME?,Leveraged Equity: U.S. Natural Gas
+Energy,MLPO,Credit Suisse S&P MLP Index ETN,Credit Suisse,$32.11M,0.95%,5.80%,Equity: U.S. MLPs
+Energy,PSCE,Invesco S&P SmallCap Energy ETF,Invesco,$30.49M,0.29%,7.14%,Equity: U.S. Energy
+Energy,MLPZ,ETRACS 2xMonthly Leveraged S&P MLP Index ETN Series B,UBS,$28.79M,0.95%,9.64%,Leveraged Equity: U.S. MLPs
+Energy,ERY,Direxion Daily Energy Bear 3X Shares,Rafferty Asset Management,$26.48M,1.07%,#NAME?,Inverse Equity: U.S. Energy
+Energy,FRAK,VanEck Vectors Unconventional Oil & Gas ETF,VanEck,$25.20M,0.54%,10.70%,Equity: Global Oil & Gas
+Energy,JHME,John Hancock Multifactor Energy ETF,John Hancock,$24.75M,0.40%,6.71%,Equity: U.S. Energy
+Energy,PYPE,ETRACS NYSE Pickens Core Midstream Index ETN,UBS,$22.67M,0.85%,5.10%,Equity: U.S. Energy
+Energy,MLPE,C-Tracks ETNs on the Miller/Howard MLP Fundamental Index Ser…,CitiGroup,$21.17M,0.85%,3.64%,Equity: U.S. MLPs
+Energy,CRAK,VanEck Vectors Oil Refiners ETF,VanEck,$20.42M,0.59%,1.18%,Equity: Global Oil & Gas
+Energy,YMLI,VanEck Vectors High Income Infrastructure MLP ETF,VanEck,$18.93M,0.81%,4.32%,Equity: U.S. MLPs
+Energy,PXJ,Invesco Dynamic Oil & Gas Services ETF,Invesco,$18.83M,0.63%,3.43%,Equity: U.S. Oil & Gas Equipment & Services
+Energy,DUG,ProShares UltraShort Oil & Gas,ProShares,$14.60M,0.95%,#NAME?,Inverse Equity: U.S. Energy
+Energy,AMJL,Credit Suisse X-Links Monthly Pay 2xLeveraged Alerian MLP In…,Credit Suisse,$12.85M,1.65%,6.49%,Leveraged Equity: U.S. MLPs
+Energy,FTXN,First Trust Nasdaq Oil & Gas ETF,First Trust,$12.32M,0.60%,2.70%,Equity: U.S. Oil & Gas
+Energy,USAI,American Energy Independence ETF,SL Advisors,$11.22M,0.75%,7.35%,Equity: U.S. MLPs
+Energy,MLPG,ETRACS Alerian Natural Gas MLP ETN,UBS,$9.04M,0.85%,5.18%,Equity: U.S. MLPs
+Energy,MLPB,ETRACS Alerian MLP Infrastructure Index ETN Series B,UBS,$8.90M,0.85%,3.81%,Equity: U.S. MLPs
+Energy,AMUB,ETRACS Alerian MLP Index ETN Series B,UBS,$6.39M,0.80%,3.62%,Equity: U.S. MLPs
+Energy,PPLN,J.P. Morgan Cushing 30 MLP Index ETN,JPMorgan,$5.37M,0.95%,4.70%,Equity: U.S. MLPs
+Energy,GASX,Direxion Daily Natural Gas Related Bear 3X Shares,Rafferty Asset Management,$3.28M,1.09%,#NAME?,Inverse Equity: U.S. Natural Gas
+Energy,XLEY,Cushing Energy & MLP ETF,Cushing,$2.63M,0.65%,7.25%,Equity: U.S. Energy
+Energy,BMLP,Dorsey Wright MLP Index ETN,BMO,$2.49M,0.85%,6.03%,Equity: U.S. MLPs
+Energy,CHIE,Global X MSCI China Energy ETF,Mirae Asset Global Investments,$2.48M,0.66%,5.78%,Equity: China Energy
+Energy,DDG,ProShares Short Oil & Gas,ProShares,$1.74M,0.95%,#NAME?,Inverse Equity: U.S. Energy
+Energy,MLPY,Morgan Stanley Cushing MLP High Income Index ETN,Morgan Stanley,--,0.85%,3.96%,Equity: U.S. MLPs
+Gasoline,UGA,United States Gasoline Fund LP,US Commodity Funds,$44.42M,1.12%,35.02%,Commodities: Energy Gasoline
+Gold,GLD,SPDR Gold Trust,State Street Global Advisors,$30.57B,0.40%,#NAME?,Commodities: Precious Metals Gold
+Gold,IAU,iShares Gold Trust,BlackRock,$12.17B,0.25%,#NAME?,Commodities: Precious Metals Gold
+Gold,GDX,VanEck Vectors Gold Miners ETF,VanEck,$9.20B,0.53%,#NAME?,Equity: Global Gold Miners
+Gold,GDXJ,VanEck Vectors Junior Gold Miners ETF,VanEck,$3.58B,0.54%,#NAME?,Equity: Global Gold Miners
+Gold,NUGT,Direxion Daily Gold Miners Index Bull 3X Shares,Rafferty Asset Management,$1.10B,1.23%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold,SGOL,Aberdeen Standard Physical Swiss Gold Shares ETF,Aberdeen Asset Management,$851.92M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Gold,JNUG,Direxion Daily Junior Gold Miners Index Bull 3X Shares,Rafferty Asset Management,$697.54M,1.17%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold,GLDM,SPDR Gold MiniShares Trust,State Street Global Advisors,$633.63M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Gold,BAR,GraniteShares Gold Trust,GraniteShares,$444.96M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Gold,RING,iShares MSCI Global Gold Miners ETF,BlackRock,$201.62M,0.39%,#NAME?,Equity: Global Gold Miners
+Gold,OUNZ,VanEck Merk Gold,Merk,$143.11M,0.40%,#NAME?,Commodities: Precious Metals Gold
+Gold,SGDM,Sprott Gold Miners ETF,SS&C,$138.96M,0.57%,#NAME?,Equity: Global Gold Miners
+Gold,UGLD,VelocityShares 3X Long Gold ETN,Credit Suisse,$108.46M,1.35%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Gold,AAAU,Perth Mint Physical Gold ETF,Exchange Traded Concepts,$105.42M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Gold,DGL,Invesco DB Gold Fund,Invesco,$101.85M,0.78%,#NAME?,Commodities: Precious Metals Gold
+Gold,DUST,Direxion Daily Gold Miners Index Bear 3x Shares,Rafferty Asset Management,$100.41M,1.05%,#NAME?,Inverse Equity: Global Gold Miners
+Gold,DGP,DB Gold Double Long ETN,Deutsche Bank,$82.50M,0.75%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Gold,UGL,ProShares Ultra Gold,ProShares,$70.64M,5.07%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Gold,SGDJ,Sprott Junior Gold Miners ETF,SS&C,$50.02M,0.57%,0.09%,Equity: Global Gold Miners
+Gold,JDST,Direxion Daily Junior Gold Miners Index Bear 3X Shares,Rafferty Asset Management,$45.84M,1.09%,5.49%,Inverse Equity: Global Gold Miners
+Gold,GLDI,Credit Suisse X-Links Gold Shares Covered Call ETN,Credit Suisse,$34.24M,0.65%,#NAME?,Commodities: Precious Metals Gold
+Gold,GOEX,Global X Gold Explorers ETF,Mirae Asset Global Investments,$31.92M,0.65%,#NAME?,Equity: Global Gold Miners
+Gold,GLDW,SPDR Long Dollar Gold Trust,State Street Global Advisors,$29.44M,0.50%,1.49%,Commodities: Precious Metals Gold
+Gold,GLL,ProShares UltraShort Gold,ProShares,$22.13M,1.62%,4.50%,Inverse Commodities: Precious Metals Gold
+Gold,DGLD,VelocityShares 3X Inverse Gold ETN,Credit Suisse,$19.43M,1.35%,6.54%,Inverse Commodities: Precious Metals Gold
+Gold,DZZ,DB Gold Double Short ETN,Deutsche Bank,$18.56M,0.75%,5.11%,Inverse Commodities: Precious Metals Gold
+Gold,GOAU,U.S. Global GO Gold and Precious Metal Miners ETF,US Global Investors,$12.49M,0.60%,0.47%,Equity: Global Gold Miners
+Gold,GDXX,ProShares Ultra Gold Miners,ProShares,$10.66M,1.28%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold,DGZ,DB Gold Short ETN,Deutsche Bank,$8.86M,0.75%,2.69%,Inverse Commodities: Precious Metals Gold
+Gold,UBG,ETRACS UBS Bloomberg CMCI Gold Total Return ETN,UBS,$6.42M,0.30%,#NAME?,Commodities: Precious Metals Gold
+Gold,IAUF,iShares Gold Strategy ETF,BlackRock,$4.86M,0.25%,#NAME?,Commodities: Precious Metals Gold
+Gold,GDXS,Proshares Ultrashort Gold Miners,ProShares,$3.69M,0.95%,0.77%,Inverse Equity: Global Gold Miners
+Gold Miners,GDX,VanEck Vectors Gold Miners ETF,VanEck,$9.20B,0.53%,#NAME?,Equity: Global Gold Miners
+Gold Miners,GDXJ,VanEck Vectors Junior Gold Miners ETF,VanEck,$3.58B,0.54%,#NAME?,Equity: Global Gold Miners
+Gold Miners,NUGT,Direxion Daily Gold Miners Index Bull 3X Shares,Rafferty Asset Management,$1.10B,1.23%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold Miners,JNUG,Direxion Daily Junior Gold Miners Index Bull 3X Shares,Rafferty Asset Management,$697.54M,1.17%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold Miners,RING,iShares MSCI Global Gold Miners ETF,BlackRock,$201.62M,0.39%,#NAME?,Equity: Global Gold Miners
+Gold Miners,SGDM,Sprott Gold Miners ETF,SS&C,$138.96M,0.57%,#NAME?,Equity: Global Gold Miners
+Gold Miners,DUST,Direxion Daily Gold Miners Index Bear 3x Shares,Rafferty Asset Management,$100.41M,1.05%,#NAME?,Inverse Equity: Global Gold Miners
+Gold Miners,SGDJ,Sprott Junior Gold Miners ETF,SS&C,$50.02M,0.57%,0.09%,Equity: Global Gold Miners
+Gold Miners,JDST,Direxion Daily Junior Gold Miners Index Bear 3X Shares,Rafferty Asset Management,$45.84M,1.09%,5.49%,Inverse Equity: Global Gold Miners
+Gold Miners,GOEX,Global X Gold Explorers ETF,Mirae Asset Global Investments,$31.92M,0.65%,#NAME?,Equity: Global Gold Miners
+Gold Miners,GOAU,U.S. Global GO Gold and Precious Metal Miners ETF,US Global Investors,$12.49M,0.60%,0.47%,Equity: Global Gold Miners
+Gold Miners,GDXX,ProShares Ultra Gold Miners,ProShares,$10.66M,1.28%,#NAME?,Leveraged Equity: Global Gold Miners
+Gold Miners,GDXS,Proshares Ultrashort Gold Miners,ProShares,$3.69M,0.95%,0.77%,Inverse Equity: Global Gold Miners
+Grains,JJG,iPath Series B Bloomberg Grains Subindex Total Return ETN,Barclays Bank PLC,$18.04M,0.45%,#NAME?,Commodities: Agriculture Grains
+Grains,FUE,Elements MLCX Biofuels Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Grains,GRU,Elements MLCX Grains Index-Total Return ETN,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Agriculture Grains
+Lead,LD,iPath Bloomberg Lead Subindex Total Return ETN,Barclays Bank PLC,$443.27K,0.70%,#NAME?,Commodities: Industrial Metals Lead
+Livestock,COW,iPath Series B Bloomberg Livestock Subindex Total Return ETN,Barclays Bank PLC,$9.48M,0.45%,3.77%,Commodities: Agriculture Livestock
+Metals,RJZ,Elements Rogers International Commodity Index-Metals Total R…,Swedish Export Credit,--,0.75%,#NAME?,Commodities: Broad Market Metals
+Metals & Mining,LIT,Global X Lithium & Battery Tech ETF,Mirae Asset Global Investments,$573.81M,0.75%,#NAME?,Equity: Global Metals & Mining
+Metals & Mining,XME,SPDR S&P Metals & Mining ETF,State Street Global Advisors,$444.42M,0.35%,#NAME?,Equity: U.S. Metals & Mining
+Metals & Mining,PICK,iShares MSCI Global Metals & Mining Producers ETF,BlackRock,$259.91M,0.39%,7.71%,Equity: Global Metals & Mining
+Metals & Mining,REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,VanEck,$143.51M,0.57%,4.23%,Equity: Global Metals & Mining
+Metals & Mining,COPX,Global X Copper Miners ETF,Mirae Asset Global Investments,$63.95M,0.65%,12.37%,Equity: Global Metals & Mining
+Metals & Mining,BATT,Amplify Advanced Battery Metals and Materials ETF,Amplify,$5.57M,0.72%,#NAME?,Equity: Global Metals & Mining
+Natural Gas,UGAZ,VelocityShares 3X Long Natural Gas ETN,Credit Suisse,$445.06M,1.65%,#NAME?,Leveraged Commodities: Energy Natural Gas
+Natural Gas,UNG,United States Natural Gas Fund LP,US Commodity Funds,$283.15M,1.29%,#NAME?,Commodities: Energy Natural Gas
+Natural Gas,DGAZ,VelocityShares 3X Inverse Natural Gas ETN,Credit Suisse,$238.07M,1.65%,72.53%,Inverse Commodities: Energy Natural Gas
+Natural Gas,BOIL,ProShares Ultra Bloomberg Natural Gas,ProShares,$26.58M,1.31%,#NAME?,Leveraged Commodities: Energy Natural Gas
+Natural Gas,KOLD,ProShares UltraShort Bloomberg Natural Gas,ProShares,$9.81M,1.54%,48.57%,Inverse Commodities: Energy Natural Gas
+Natural Gas,UNL,United States 12 Month Natural Gas Fund LP,US Commodity Funds,$4.45M,0.88%,#NAME?,Commodities: Energy Natural Gas
+Natural Gas,GAZ,iPath Series B Bloomberg Natural Gas Subindex Total Return E…,Barclays Bank PLC,$3.60M,0.45%,#NAME?,Commodities: Energy Natural Gas
+Nickel,JJN,iPath Series B Bloomberg Nickel Subindex Total Return ETN,Barclays Bank PLC,$7.94M,0.45%,3.31%,Commodities: Industrial Metals Nickel
+Nuclear,URA,Global X Uranium ETF,Mirae Asset Global Investments,$237.63M,0.69%,#NAME?,Equity: Global Nuclear Energy
+Nuclear,NLR,VanEck Vectors Uranium+Nuclear Energy ETF,VanEck,$26.30M,0.60%,1.30%,Equity: Global Nuclear Energy
+Oil,XOP,SPDR S&P Oil & Gas Exploration & Production ETF,State Street Global Advisors,$2.34B,0.35%,4.38%,Equity: U.S. Oil & Gas Exploration & Production
+Oil,USO,United States Oil Fund LP,US Commodity Funds,$1.54B,0.84%,20.27%,Commodities: Energy Crude Oil
+Oil,OIH,VanEck Vectors Oil Services ETF,VanEck,$830.06M,0.35%,0.99%,Equity: Global Oil & Gas Equipment & Services
+Oil,UWT,VelocityShares 3x Long Crude Oil ETN,CitiGroup,$409.40M,1.50%,65.62%,Leveraged Commodities: Energy Crude Oil
+Oil,UCO,ProShares Ultra Bloomberg Crude Oil,ProShares,$408.67M,1.27%,41.26%,Leveraged Commodities: Energy Crude Oil
+Oil,DBO,Invesco DB Oil Fund,Invesco,$315.10M,0.78%,12.80%,Commodities: Energy Crude Oil
+Oil,IEO,iShares U.S. Oil & Gas Exploration & Production ETF,BlackRock,$287.06M,0.43%,6.29%,Equity: U.S. Oil & Gas Exploration & Production
+Oil,GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 3X Shares,Rafferty Asset Management,$246.02M,1.17%,4.02%,Leveraged Equity: U.S. Oil & Gas Exploration & Production
+Oil,XES,SPDR S&P Oil & Gas Equipment & Services ETF,State Street Global Advisors,$230.49M,0.35%,5.29%,Equity: U.S. Oil & Gas Equipment & Services
+Oil,IEZ,iShares U.S. Oil Equipment & Services ETF,BlackRock,$160.10M,0.43%,2.52%,Equity: U.S. Oil & Gas Equipment & Services
+Oil,DWT,VelocityShares 3x Inverse Crude Oil ETN,CitiGroup,$145.49M,1.50%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil,OILU,ProShares UltraPro 3x Crude Oil ETF,ProShares,$142.35M,1.03%,64.29%,Leveraged Commodities: Energy Crude Oil
+Oil,OIL,iPath Series B S&P GSCI Crude Oil ETN,Barclays Bank PLC,$103.50M,0.45%,20.30%,Commodities: Energy Crude Oil
+Oil,BNO,United States Brent Oil Fund LP,US Commodity Funds,$102.72M,0.88%,21.29%,Commodities: Energy Crude Oil
+Oil,SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares,$95.51M,1.25%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil,USL,United States 12 Month Oil Fund LP,US Commodity Funds,$65.60M,0.86%,16.84%,Commodities: Energy Crude Oil
+Oil,DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 3X Shares,Rafferty Asset Management,$57.61M,1.07%,#NAME?,Inverse Equity: U.S. Oil & Gas Exploration & Production
+Oil,FILL,iShares MSCI Global Energy Producers ETF,BlackRock,$51.41M,0.39%,7.35%,Equity: Global Oil & Gas Exploration & Production
+Oil,OILK,ProShares K-1 Free Crude Oil Strategy ETF,ProShares,$46.80M,0.65%,19.63%,Commodities: Energy Crude Oil
+Oil,PXE,Invesco Dynamic Energy Exploration & Production ETF,Invesco,$41.37M,0.65%,3.56%,Equity: U.S. Oil & Gas Exploration & Production
+Oil,USOU,United States 3x Oil Fund,US Commodity Funds,$25.75M,1.43%,65.23%,Leveraged Commodities: Energy Crude Oil
+Oil,OILD,ProShares UltraPro 3x Short Crude Oil ETF,ProShares,$19.67M,1.10%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil,WTIU,UBS ETRACS - ProShares Daily 3x Long Crude ETN,UBS,$19.47M,1.45%,64.51%,Leveraged Commodities: Energy Crude Oil
+Oil,PXJ,Invesco Dynamic Oil & Gas Services ETF,Invesco,$18.83M,0.63%,3.43%,Equity: U.S. Oil & Gas Equipment & Services
+Oil,OILX,ETRACS S&P GSCI Crude Oil Total Return ETN,UBS,$15.70M,0.50%,20.21%,Commodities: Energy Crude Oil
+Oil,DTO,DB Crude Oil Double Short ETN,Deutsche Bank,$11.67M,0.75%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil,USOI,Credit Suisse X-Links Crude Oil Shares Covered Call ETN,Credit Suisse,$8.40M,0.85%,19.85%,Commodities: Energy Crude Oil
+Oil,OLEM,iPath Pure Beta Crude Oil ETN,Barclays Bank PLC,$2.61M,0.85%,17.48%,Commodities: Energy Crude Oil
+Oil,WTID,UBS ETRACS - ProShares Daily 3x Inverse Crude ETN,UBS,$2.21M,1.85%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil,USOD,United States 3x Short Oil Fund,US Commodity Funds,$1.97M,1.62%,#NAME?,Inverse Commodities: Energy Crude Oil
+Oil & Gas,NRGU,MicroSectors U.S. Big Oil Index 3X Leveraged ETN,BMO,$57.96M,0.95%,--,Leveraged Equity: U.S. Oil & Gas
+Oil & Gas,NRGO,MicroSectors U.S. Big Oil Index 2X Leveraged ETN,BMO,$55.31M,0.95%,--,Leveraged Equity: U.S. Oil & Gas
+Oil & Gas,YGRN,MicroSectors U.S. Big Oil Index Inverse ETN,BMO,$47.38M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Oil & Gas,NRGZ,MicroSectors U.S. Big Oil Index -2X Inverse Leveraged ETN,BMO,$44.77M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Oil & Gas,NRGD,MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN,BMO,$42.20M,0.95%,--,Inverse Equity: U.S. Oil & Gas
+Oil & Gas,FRAK,VanEck Vectors Unconventional Oil & Gas ETF,VanEck,$25.20M,0.54%,10.70%,Equity: Global Oil & Gas
+Oil & Gas,CRAK,VanEck Vectors Oil Refiners ETF,VanEck,$20.42M,0.59%,1.18%,Equity: Global Oil & Gas
+Oil & Gas,FTXN,First Trust Nasdaq Oil & Gas ETF,First Trust,$12.32M,0.60%,2.70%,Equity: U.S. Oil & Gas
+Pall,PALL,Aberdeen Standard Physical Palladium Shares ETF,Aberdeen Asset Management,$226.18M,0.60%,3.59%,Commodities: Precious Metals Palladium
+Platinum,PPLT,Aberdeen Standard Physical Platinum Shares ETF,Aberdeen Asset Management,$585.80M,0.60%,8.19%,Commodities: Precious Metals Platinum
+Platinum,PLTM,GraniteShares Platinum Trust,GraniteShares,$3.96M,0.50%,#NAME?,Commodities: Precious Metals Platinum
+Platinum,PGM,iPath Series B Bloomberg Platinum Subindex Total Return ETN,Barclays Bank PLC,$3.92M,0.45%,8.47%,Commodities: Precious Metals Platinum
+Precious Metals,GLD,SPDR Gold Trust,State Street Global Advisors,$30.57B,0.40%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,IAU,iShares Gold Trust,BlackRock,$12.17B,0.25%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,SLV,iShares Silver Trust,BlackRock,$4.62B,0.50%,#NAME?,Commodities: Precious Metals Silver
+Precious Metals,SGOL,Aberdeen Standard Physical Swiss Gold Shares ETF,Aberdeen Asset Management,$851.92M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,GLDM,SPDR Gold MiniShares Trust,State Street Global Advisors,$633.63M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,PPLT,Aberdeen Standard Physical Platinum Shares ETF,Aberdeen Asset Management,$585.80M,0.60%,8.19%,Commodities: Precious Metals Platinum
+Precious Metals,BAR,GraniteShares Gold Trust,GraniteShares,$444.96M,0.17%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,Aberdeen Asset Management,$353.37M,0.60%,#NAME?,Commodities: Precious Metals
+Precious Metals,SIVR,Aberdeen Standard Physical Silver Shares ETF,Aberdeen Asset Management,$319.17M,0.30%,#NAME?,Commodities: Precious Metals Silver
+Precious Metals,PALL,Aberdeen Standard Physical Palladium Shares ETF,Aberdeen Asset Management,$226.18M,0.60%,3.59%,Commodities: Precious Metals Palladium
+Precious Metals,USLV,VelocityShares 3X Long Silver ETN,Credit Suisse,$224.82M,1.65%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Precious Metals,AGQ,ProShares Ultra Silver,ProShares,$172.80M,5.28%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Precious Metals,OUNZ,VanEck Merk Gold,Merk,$143.11M,0.40%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,UGLD,VelocityShares 3X Long Gold ETN,Credit Suisse,$108.46M,1.35%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Precious Metals,DBP,Invesco DB Precious Metals Fund,Invesco,$107.39M,0.78%,#NAME?,Commodities: Precious Metals
+Precious Metals,AAAU,Perth Mint Physical Gold ETF,Exchange Traded Concepts,$105.42M,0.18%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,DGL,Invesco DB Gold Fund,Invesco,$101.85M,0.78%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,DGP,DB Gold Double Long ETN,Deutsche Bank,$82.50M,0.75%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Precious Metals,UGL,ProShares Ultra Gold,ProShares,$70.64M,5.07%,#NAME?,Leveraged Commodities: Precious Metals Gold
+Precious Metals,GLDI,Credit Suisse X-Links Gold Shares Covered Call ETN,Credit Suisse,$34.24M,0.65%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,DSLV,VelocityShares 3X Inverse Silver ETN,Credit Suisse,$29.85M,1.65%,16.55%,Inverse Commodities: Precious Metals Silver
+Precious Metals,GLDW,SPDR Long Dollar Gold Trust,State Street Global Advisors,$29.44M,0.50%,1.49%,Commodities: Precious Metals Gold
+Precious Metals,ZSL,ProShares UltraShort Silver,ProShares,$22.77M,1.62%,11.22%,Inverse Commodities: Precious Metals Silver
+Precious Metals,GLL,ProShares UltraShort Gold,ProShares,$22.13M,1.62%,4.50%,Inverse Commodities: Precious Metals Gold
+Precious Metals,SLVO,Credit Suisse X-Links Silver Shares Covered Call ETN,Credit Suisse,$21.16M,0.65%,#NAME?,Commodities: Precious Metals Silver
+Precious Metals,DGLD,VelocityShares 3X Inverse Gold ETN,Credit Suisse,$19.43M,1.35%,6.54%,Inverse Commodities: Precious Metals Gold
+Precious Metals,DZZ,DB Gold Double Short ETN,Deutsche Bank,$18.56M,0.75%,5.11%,Inverse Commodities: Precious Metals Gold
+Precious Metals,DBS,Invesco DB Silver Fund,Invesco,$13.25M,0.79%,#NAME?,Commodities: Precious Metals Silver
+Precious Metals,DGZ,DB Gold Short ETN,Deutsche Bank,$8.86M,0.75%,2.69%,Inverse Commodities: Precious Metals Gold
+Precious Metals,UBG,ETRACS UBS Bloomberg CMCI Gold Total Return ETN,UBS,$6.42M,0.30%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,IAUF,iShares Gold Strategy ETF,BlackRock,$4.86M,0.25%,#NAME?,Commodities: Precious Metals Gold
+Precious Metals,JJP,iPath Series B Bloomberg Precious Metals Subindex Total Retu…,Barclays Bank PLC,$4.61M,0.45%,#NAME?,Commodities: Precious Metals
+Precious Metals,PLTM,GraniteShares Platinum Trust,GraniteShares,$3.96M,0.50%,#NAME?,Commodities: Precious Metals Platinum
+Precious Metals,PGM,iPath Series B Bloomberg Platinum Subindex Total Return ETN,Barclays Bank PLC,$3.92M,0.45%,8.47%,Commodities: Precious Metals Platinum
+Precious Metals,USV,ETRACS UBS Bloomberg CMCI Silver Total Return ETN,UBS,$3.73M,0.40%,#NAME?,Commodities: Precious Metals Silver
+Silver,SLV,iShares Silver Trust,BlackRock,$4.62B,0.50%,#NAME?,Commodities: Precious Metals Silver
+Silver,SIVR,Aberdeen Standard Physical Silver Shares ETF,Aberdeen Asset Management,$319.17M,0.30%,#NAME?,Commodities: Precious Metals Silver
+Silver,SIL,Global X Silver Miners ETF,Mirae Asset Global Investments,$313.58M,0.65%,#NAME?,Equity: Global Silver Miners
+Silver,USLV,VelocityShares 3X Long Silver ETN,Credit Suisse,$224.82M,1.65%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Silver,AGQ,ProShares Ultra Silver,ProShares,$172.80M,5.28%,#NAME?,Leveraged Commodities: Precious Metals Silver
+Silver,SLVP,iShares MSCI Global Silver Miners ETF,BlackRock,$55.39M,0.39%,#NAME?,Equity: Global Silver Miners
+Silver,SILJ,ETFMG Prime Junior Silver ETF,ETF Managers Group,$45.71M,0.69%,#NAME?,Equity: Global Silver Miners
+Silver,DSLV,VelocityShares 3X Inverse Silver ETN,Credit Suisse,$29.85M,1.65%,16.55%,Inverse Commodities: Precious Metals Silver
+Silver,ZSL,ProShares UltraShort Silver,ProShares,$22.77M,1.62%,11.22%,Inverse Commodities: Precious Metals Silver
+Silver,SLVO,Credit Suisse X-Links Silver Shares Covered Call ETN,Credit Suisse,$21.16M,0.65%,#NAME?,Commodities: Precious Metals Silver
+Silver,DBS,Invesco DB Silver Fund,Invesco,$13.25M,0.79%,#NAME?,Commodities: Precious Metals Silver
+Silver,USV,ETRACS UBS Bloomberg CMCI Silver Total Return ETN,UBS,$3.73M,0.40%,#NAME?,Commodities: Precious Metals Silver
+Silver Miners,SIL,Global X Silver Miners ETF,Mirae Asset Global Investments,$313.58M,0.65%,#NAME?,Equity: Global Silver Miners
+Silver Miners,SLVP,iShares MSCI Global Silver Miners ETF,BlackRock,$55.39M,0.39%,#NAME?,Equity: Global Silver Miners
+Silver Miners,SILJ,ETFMG Prime Junior Silver ETF,ETF Managers Group,$45.71M,0.69%,#NAME?,Equity: Global Silver Miners
+Soybeans,SOYB,Teucrium Soybean Fund,Teucrium,$23.36M,3.63%,#NAME?,Commodities: Agriculture Soybeans
+Sugar,SGG,iPath Series B Bloomberg Sugar Subindex Total Return ETN,Barclays Bank PLC,$24.01M,0.45%,2.32%,Commodities: Agriculture Sugar
+Sugar,CANE,Teucrium Sugar Fund,Teucrium,$11.16M,3.58%,#NAME?,Commodities: Agriculture Sugar
+Tin,JJT,iPath Series B Bloomberg Tin Subindex Total Return ETN,Barclays Bank PLC,$4.58M,0.45%,#NAME?,Commodities: Industrial Metals Tin
+Water,PHO,Invesco Water Resources ETF,Invesco,$927.23M,0.62%,11.16%,Equity: Global Water
+Water,CGW,Invesco S&P Global Water Index ETF,Invesco,$610.86M,0.62%,8.94%,Equity: Global Water
+Water,FIW,First Trust Water ETF,First Trust,$348.84M,0.56%,10.00%,Equity: Global Water
+Water,PIO,Invesco Global Water ETF,Invesco,$184.50M,0.75%,10.37%,Equity: Global Water
+Water,TBLU,Tortoise Global Water ESG Fund,Montage Managers,$4.44M,0.40%,8.62%,Equity: Global Water
+Wheat,WEAT,Teucrium Wheat Fund,Teucrium,$53.59M,3.63%,#NAME?,Commodities: Agriculture Wheat
