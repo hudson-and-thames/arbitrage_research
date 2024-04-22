@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "arbitrage_research"
+version = "0.1.0"
+description = "arbitrage research contains examples of statistical arbitrage strategies to create mean reverting portfolio using arbitragelab library"
+authors = ["Hudson and Thames Quantitative Research<opensource@hudsonthames.org>"]
+license = "BSD-3-Clause"
+readme = "README.md"
+homepage = "https://www.hudsonthames.org/"
+repository = "https://github.com/hudson-and-thames/arbitrage_research"
+keywords = ["stastical arbitrage", "mean reversion", "quantitative trading"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Financial and Insurance Industry",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.8",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Office/Business :: Financial :: Investment"
+]
+
+[tool.poetry.urls]
+"Bug Reports" = "https://github.com/hudson-and-thames/arbitrage_research/issues"
+"Blog" = "https://hudsonthames.org/blog/"
+"Apprenticeship Program" = "https://hudsonthames.org/apprenticeship-program/"
+
+[tool.poetry.dependencies]
+python = "~3.8"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
