@@ -1,6 +1,6 @@
-# Contribution Guidelines for Hudson and Thames ArbitrageLab Research
+# Contribution Guidelines for Hudson and Thames ArbitrageResearch
 
-Thank you for considering contributing to Hudson and Thames Arbitrage Research project! We value your time and effort in helping
+Thank you for considering contributing to Hudson and Thames ArbitrageResearch project! We value your time and effort in helping
 improve our project. Please follow these guidelines to ensure a smooth contribution process for everyone involved.
 
 
@@ -23,7 +23,7 @@ Use LaTeX to write mathematical formula and equations.
 Please follow these steps to contribute:
 
 1. **Fork the Repository**
-   - Go to the GitHub page of Hudson and Thames Arbitrage Research and click the "Fork" button at the top right corner.
+   - Go to the GitHub page of Hudson and Thames ArbitrageResearch and click the "Fork" button at the top right corner.
 
 2. **Clone Your Fork**
    - After forking, clone the repository to your local machine to start working on your notebook:
@@ -39,7 +39,10 @@ Please follow these steps to contribute:
      ```
 
 4. **Add your notebook Locally**
-   - Add your notebook in the correct folder.
+   - Commit your notebook with a clear commit message:
+     ```bash
+     git commit -m "your commit message"
+     ```
    - Make sure your presentation follows the coding standards of the existing notebooks.
 
 5. **Submit a Pull Request**
@@ -47,7 +50,7 @@ Please follow these steps to contribute:
      ```bash
      git push origin feature/your_feature_name
      ```
-   - Submit the pull request for review, to the develop branch - never master/main.
+   - Submit your pull request for review to the main branch.
 
 ## Code Review
 
@@ -64,4 +67,4 @@ continue participating in our community and consider tackling other issues or im
 
 For any questions or help with getting started, don't hesitate to reach out through our community forums or issue tracker.
 
-Thank you for contributing to Hudson and Thames ArbitrageLab Research!
+Thank you for contributing to Hudson and Thames ArbitrageResearch!
